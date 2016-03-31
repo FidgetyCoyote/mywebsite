@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	background: #99ff99;
+	margin: 20px 0;
+}
+
+.btnColour {
+	background-color:  #ffaa80;
+	font-size: 24px;
+	border-radius: 4px;
+	width: 25%;
+	box-shadow: 2px 2px 5px #888888;
+}

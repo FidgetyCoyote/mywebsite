@@ -1,0 +1,15 @@
+footer {
+	/*border-top:medium solid #D4D4D4;
+	background-color: #D4D4D4;*/
+	text-align:center;
+	clear:both;
+}
+
+.navbar {
+	background-color: #451b1b;
+}
+
+.navbar-brand {
+	color: #c19b9b;
+	font-size: 25px;
+}
